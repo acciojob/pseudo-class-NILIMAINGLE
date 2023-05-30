@@ -2,8 +2,7 @@
 div::before{
 	content: "Before Element ";
 	color: red;
-	font-size: 20px;
-	
+	font-size: 20px;	
 }
 
 div::after{
